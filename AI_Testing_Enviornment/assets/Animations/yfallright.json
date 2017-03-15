@@ -1,0 +1,201 @@
+{"frames": [
+
+{
+	"filename": "yellowfall_0000.png",
+	"frame": {"x":0,"y":0,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0001.png",
+	"frame": {"x":203,"y":0,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0002.png",
+	"frame": {"x":406,"y":0,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0003.png",
+	"frame": {"x":609,"y":0,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0004.png",
+	"frame": {"x":812,"y":0,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0005.png",
+	"frame": {"x":0,"y":212,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0006.png",
+	"frame": {"x":203,"y":212,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0007.png",
+	"frame": {"x":406,"y":212,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0008.png",
+	"frame": {"x":609,"y":212,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0009.png",
+	"frame": {"x":812,"y":212,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0010.png",
+	"frame": {"x":0,"y":424,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0011.png",
+	"frame": {"x":203,"y":424,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0012.png",
+	"frame": {"x":406,"y":424,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0013.png",
+	"frame": {"x":609,"y":424,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0014.png",
+	"frame": {"x":812,"y":424,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0015.png",
+	"frame": {"x":0,"y":636,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0016.png",
+	"frame": {"x":203,"y":636,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0017.png",
+	"frame": {"x":406,"y":636,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0018.png",
+	"frame": {"x":609,"y":636,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0019.png",
+	"frame": {"x":812,"y":636,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowfall_0020.png",
+	"frame": {"x":0,"y":848,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "yfallright.png",
+	"format": "RGBA8888",
+	"size": {"w":1015,"h":1060},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7dd69ef40fded6df0ca8d778a54770a7:93f2d8b3e6915a770497500948596dd7:dbe7dd878a276e62b89eb84547db6b57$"
+}
+}

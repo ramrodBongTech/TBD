@@ -1,0 +1,111 @@
+{"frames": [
+
+{
+	"filename": "blueswing_0000leftpng.png",
+	"frame": {"x":0,"y":0,"w":98,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":159},
+	"sourceSize": {"w":98,"h":159},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "blueswing_0001leftpng.png",
+	"frame": {"x":0,"y":159,"w":98,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":159},
+	"sourceSize": {"w":98,"h":159},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "blueswing_0002leftpng.png",
+	"frame": {"x":0,"y":318,"w":98,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":159},
+	"sourceSize": {"w":98,"h":159},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "blueswing_0003leftpng.png",
+	"frame": {"x":0,"y":477,"w":98,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":159},
+	"sourceSize": {"w":98,"h":159},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "blueswing_0004leftpng.png",
+	"frame": {"x":0,"y":636,"w":98,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":159},
+	"sourceSize": {"w":98,"h":159},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "blueswing_0005leftpng.png",
+	"frame": {"x":0,"y":795,"w":98,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":159},
+	"sourceSize": {"w":98,"h":159},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "blueswing_0006leftpng.png",
+	"frame": {"x":0,"y":954,"w":98,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":159},
+	"sourceSize": {"w":98,"h":159},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "blueswing_0007leftpng.png",
+	"frame": {"x":0,"y":1113,"w":98,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":159},
+	"sourceSize": {"w":98,"h":159},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "blueswing_0008leftpng.png",
+	"frame": {"x":0,"y":1272,"w":98,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":159},
+	"sourceSize": {"w":98,"h":159},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "blueswing_0009leftpng.png",
+	"frame": {"x":0,"y":1431,"w":98,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":159},
+	"sourceSize": {"w":98,"h":159},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "blueswing_0010leftpng.png",
+	"frame": {"x":0,"y":1590,"w":98,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":159},
+	"sourceSize": {"w":98,"h":159},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bswingingleft.png",
+	"format": "RGBA8888",
+	"size": {"w":98,"h":1749},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bb41ce9c5bf99be92def7ab004fbf49c:37a44945a378da9de0ca739fb359aca9:5982d3cfa09b8cf1e6c23de45a9a2710$"
+}
+}

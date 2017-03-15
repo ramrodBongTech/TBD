@@ -1,0 +1,460 @@
+{
+    "resources": {
+
+        "textures": [
+            {
+                "key": "placeholder",
+                "path": "assets/Textures/placeholder.png"
+            },
+            {
+                "key": "arrow",
+                "path": "assets/Textures/arrow.png"
+            },
+            {
+                "key": "bluehud",
+                "path": "assets/Textures/bluehud.png"
+            },
+            {
+                "key": "redhud",
+                "path": "assets/Textures/redhud.png"
+            },
+            {
+                "key": "greenhud",
+                "path": "assets/Textures/greenhud.png"
+            },
+            {
+                "key": "yellowhud",
+                "path": "assets/Textures/yellowhud.png"
+            },
+            {
+                "key": "redcounter",
+                "path": "assets/Textures/redcounter.png"
+            },
+            {
+                "key": "greencounter",
+                "path": "assets/Textures/greencounter.png"
+            },
+            {
+                "key": "hookIcon",
+                "path": "assets/Textures/hookIcon.png"
+            },
+            {
+                "key": "shotIcon",
+                "path": "assets/Textures/shotIcon.png"
+            },
+            {
+                "key": "webIcon",
+                "path": "assets/Textures/webIcon.png"
+            },
+            {
+                "key": "stamina",
+                "path": "assets/Textures/green.jpg"
+            },
+            {
+                "key": "mapone",
+                "path": "assets/Textures/mapone.png"
+            },
+            {
+                "key": "maptwo",
+                "path": "assets/Textures/maptwo.png"
+            },
+            {
+                "key": "mapthree",
+                "path": "assets/Textures/mapthree.png"
+            },
+            {
+                "key": "mapfour",
+                "path": "assets/Textures/mapfour.png"
+            },
+            {
+                "key": "boost",
+                "path": "assets/Textures/boost.png"
+            },
+            {
+                "key": "boxrandom",
+                "path": "assets/Textures/boxrandom.png"
+            },
+            {
+                "key": "web",
+                "path": "assets/Textures/web.png"
+            },
+            {
+                "key": "webattack",
+                "path": "assets/Textures/webattack.png"
+            },
+            {
+                "key": "boxrandom",
+                "path": "assets/Textures/boxrandom.png"
+            },
+            {
+                "key": "webattackleft",
+                "path": "assets/Textures/webattackleft.png"
+            },
+            {
+                "key": "webstun",
+                "path": "assets/Textures/webstun.png"
+            },
+            {
+                "key": "webstunleft",
+                "path": "assets/Textures/webstunleft.png"
+            }
+        ],
+
+        "music": [
+            { 
+                "key": "game_music",
+                "path": "assets/Music/gameMusic.ogg"
+            },
+            {
+                "key": "credit-music",
+                "path": "assets/Music/credit-music.mp3"
+            },
+            {
+                "key": "menu-music",
+                "path": "assets/Music/menu-music.mp3"
+            },
+            {
+                "key": "music_placeholder",
+                "path": "assets/Music/placeholder.wav"
+            }
+        ],
+
+        "effects": [
+            {
+                "key": "hit",
+                "path": "assets/SoundEffects/hit.wav"
+            },
+            {
+                "key": "click_off",
+                "path": "assets/SoundEffects/click_off.wav"
+            },
+            {
+                "key": "click_on",
+                "path": "assets/SoundEffects/click_on.wav"
+            },
+            {
+                "key": "start_race",
+                "path": "assets/SoundEffects/start_race.wav"
+            },
+            {
+                "key": "rope",
+                "path": "assets/SoundEffects/rope.wav"
+            },
+            {
+                "key": "shoot",
+                "path": "assets/SoundEffects/shoot.wav"
+            },
+            {
+                "key": "swoosh",
+                "path": "assets/SoundEffects/swoosh.mp3"
+            },
+            {
+                "key": "drop",
+                "path": "assets/SoundEffects/drop.wav"
+            },
+            {
+                "key": "sound_effect_placeholder",
+                "path": "assets/SoundEffects/placeholder.wav"
+            }
+        ],
+
+        "animations": [
+            {
+                "key": "placeholder",
+                "path": "assets/Textures/placeholder.png",
+                "metaPath": "assets/Animations/placeholder.json"
+            },
+            {
+                "key": "abilityIcon",
+                "path": "assets/Textures/abilityIcon.png",
+                "metaPath": "assets/Animations/abilityIcon.json"
+            },
+            {
+                "key": "countdown",
+                "path": "assets/Textures/countdown.png",
+                "metaPath": "assets/Animations/countdown.json"
+            },
+            {
+                "key": "bidleright",
+                "path": "assets/Textures/bidleright.png",
+                "metaPath": "assets/Animations/bidleright.json"
+            },
+            {
+                "key": "brunright",
+                "path": "assets/Textures/brunright.png",
+                "metaPath": "assets/Animations/brunright.json"
+            },
+            {
+                "key": "battackright",
+                "path": "assets/Textures/battackright.png",
+                "metaPath": "assets/Animations/battackright.json"
+            },
+            {
+                "key": "bfallright",
+                "path": "assets/Textures/bfallright.png",
+                "metaPath": "assets/Animations/bfallright.json"
+            },
+            {
+                "key": "bhitright",
+                "path": "assets/Textures/bhitright.png",
+                "metaPath": "assets/Animations/bhitright.json"
+            },
+            {
+                "key": "blandingright",
+                "path": "assets/Textures/blandingright.png",
+                "metaPath": "assets/Animations/blandingright.json"
+            },
+            {
+                "key": "bswingingright",
+                "path": "assets/Textures/bswingingright.png",
+                "metaPath": "assets/Animations/bswingingright.json"
+            },
+            {
+                "key": "bidleleft",
+                "path": "assets/Textures/bidleleft.png",
+                "metaPath": "assets/Animations/bidleleft.json"
+            },
+            {
+                "key": "brunleft",
+                "path": "assets/Textures/brunleft.png",
+                "metaPath": "assets/Animations/brunleft.json"
+            },
+            {
+                "key": "battackleft",
+                "path": "assets/Textures/battackleft.png",
+                "metaPath": "assets/Animations/battackleft.json"
+            },
+            {
+                "key": "bfallleft",
+                "path": "assets/Textures/bfallleft.png",
+                "metaPath": "assets/Animations/bfallleft.json"
+            },
+            {
+                "key": "bhitleft",
+                "path": "assets/Textures/bhitleft.png",
+                "metaPath": "assets/Animations/bhitleft.json"
+            },
+            {
+                "key": "blandingleft",
+                "path": "assets/Textures/blandingleft.png",
+                "metaPath": "assets/Animations/blandingleft.json"
+            },
+            {
+                "key": "bswingingleft",
+                "path": "assets/Textures/bswingingleft.png",
+                "metaPath": "assets/Animations/bswingingleft.json"
+            },
+            {
+                "key": "ridleright",
+                "path": "assets/Textures/ridleright.png",
+                "metaPath": "assets/Animations/ridleright.json"
+            },
+            {
+                "key": "rrunright",
+                "path": "assets/Textures/rrunright.png",
+                "metaPath": "assets/Animations/rrunright.json"
+            },
+            {
+                "key": "rattackright",
+                "path": "assets/Textures/rattackright.png",
+                "metaPath": "assets/Animations/rattackright.json"
+            },
+            {
+                "key": "rfallright",
+                "path": "assets/Textures/rfallright.png",
+                "metaPath": "assets/Animations/rfallright.json"
+            },
+            {
+                "key": "rhitright",
+                "path": "assets/Textures/rhitright.png",
+                "metaPath": "assets/Animations/rhitright.json"
+            },
+            {
+                "key": "rlandingright",
+                "path": "assets/Textures/rlandingright.png",
+                "metaPath": "assets/Animations/rlandingright.json"
+            },
+            {
+                "key": "rswingingright",
+                "path": "assets/Textures/rswingingright.png",
+                "metaPath": "assets/Animations/rswingingright.json"
+            },
+            {
+                "key": "ridleleft",
+                "path": "assets/Textures/ridleleft.png",
+                "metaPath": "assets/Animations/ridleleft.json"
+            },
+            {
+                "key": "rrunleft",
+                "path": "assets/Textures/rrunleft.png",
+                "metaPath": "assets/Animations/rrunleft.json"
+            },
+            {
+                "key": "rattackleft",
+                "path": "assets/Textures/rattackleft.png",
+                "metaPath": "assets/Animations/rattackleft.json"
+            },
+            {
+                "key": "rfallleft",
+                "path": "assets/Textures/rfallleft.png",
+                "metaPath": "assets/Animations/rfallleft.json"
+            },
+            {
+                "key": "rhitleft",
+                "path": "assets/Textures/rhitleft.png",
+                "metaPath": "assets/Animations/rhitleft.json"
+            },
+            {
+                "key": "rlandingleft",
+                "path": "assets/Textures/rlandingleft.png",
+                "metaPath": "assets/Animations/rlandingleft.json"
+            },
+            {
+                "key": "rswingingleft",
+                "path": "assets/Textures/rswingingleft.png",
+                "metaPath": "assets/Animations/rswingingleft.json"
+            },
+            {
+                "key": "gidleright",
+                "path": "assets/Textures/gidleright.png",
+                "metaPath": "assets/Animations/gidleright.json"
+            },
+            {
+                "key": "grunright",
+                "path": "assets/Textures/grunright.png",
+                "metaPath": "assets/Animations/grunright.json"
+            },
+            {
+                "key": "gattackright",
+                "path": "assets/Textures/gattackright.png",
+                "metaPath": "assets/Animations/gattackright.json"
+            },
+            {
+                "key": "gfallright",
+                "path": "assets/Textures/gfallright.png",
+                "metaPath": "assets/Animations/gfallright.json"
+            },
+            {
+                "key": "ghitright",
+                "path": "assets/Textures/ghitright.png",
+                "metaPath": "assets/Animations/ghitright.json"
+            },
+            {
+                "key": "glandingright",
+                "path": "assets/Textures/glandingright.png",
+                "metaPath": "assets/Animations/glandingright.json"
+            },
+            {
+                "key": "gswingingright",
+                "path": "assets/Textures/gswingingright.png",
+                "metaPath": "assets/Animations/gswingingright.json"
+            },
+            {
+                "key": "gidleleft",
+                "path": "assets/Textures/gidleleft.png",
+                "metaPath": "assets/Animations/gidleleft.json"
+            },
+            {
+                "key": "grunleft",
+                "path": "assets/Textures/grunleft.png",
+                "metaPath": "assets/Animations/grunleft.json"
+            },
+            {
+                "key": "gattackleft",
+                "path": "assets/Textures/gattackleft.png",
+                "metaPath": "assets/Animations/gattackleft.json"
+            },
+            {
+                "key": "gfallleft",
+                "path": "assets/Textures/gfallleft.png",
+                "metaPath": "assets/Animations/gfallleft.json"
+            },
+            {
+                "key": "ghitleft",
+                "path": "assets/Textures/ghitleft.png",
+                "metaPath": "assets/Animations/ghitleft.json"
+            },
+            {
+                "key": "glandingleft",
+                "path": "assets/Textures/glandingleft.png",
+                "metaPath": "assets/Animations/glandingleft.json"
+            },
+            {
+                "key": "gswingingleft",
+                "path": "assets/Textures/gswingingleft.png",
+                "metaPath": "assets/Animations/gswingingleft.json"
+            },
+            {
+                "key": "yidleright",
+                "path": "assets/Textures/yidleright.png",
+                "metaPath": "assets/Animations/yidleright.json"
+            },
+            {
+                "key": "yrunright",
+                "path": "assets/Textures/yrunright.png",
+                "metaPath": "assets/Animations/yrunright.json"
+            },
+            {
+                "key": "yattackright",
+                "path": "assets/Textures/yattackright.png",
+                "metaPath": "assets/Animations/yattackright.json"
+            },
+            {
+                "key": "yfallright",
+                "path": "assets/Textures/yfallright.png",
+                "metaPath": "assets/Animations/yfallright.json"
+            },
+            {
+                "key": "yhitright",
+                "path": "assets/Textures/yhitright.png",
+                "metaPath": "assets/Animations/yhitright.json"
+            },
+            {
+                "key": "ylandingright",
+                "path": "assets/Textures/ylandingright.png",
+                "metaPath": "assets/Animations/ylandingright.json"
+            },
+            {
+                "key": "yswingingright",
+                "path": "assets/Textures/yswingingright.png",
+                "metaPath": "assets/Animations/yswingingright.json"
+            },
+            {
+                "key": "yidleleft",
+                "path": "assets/Textures/yidleleft.png",
+                "metaPath": "assets/Animations/yidleleft.json"
+            },
+            {
+                "key": "yrunleft",
+                "path": "assets/Textures/yrunleft.png",
+                "metaPath": "assets/Animations/yrunleft.json"
+            },
+            {
+                "key": "yattackleft",
+                "path": "assets/Textures/yattackleft.png",
+                "metaPath": "assets/Animations/yattackleft.json"
+            },
+            {
+                "key": "yfallleft",
+                "path": "assets/Textures/yfallleft.png",
+                "metaPath": "assets/Animations/yfallleft.json"
+            },
+            {
+                "key": "yhitleft",
+                "path": "assets/Textures/yhitleft.png",
+                "metaPath": "assets/Animations/yhitleft.json"
+            },
+            {
+                "key": "ylandingleft",
+                "path": "assets/Textures/ylandingleft.png",
+                "metaPath": "assets/Animations/ylandingleft.json"
+            },
+            {
+                "key": "yswingingleft",
+                "path": "assets/Textures/yswingingleft.png",
+                "metaPath": "assets/Animations/yswingingleft.json"
+            }
+        ]
+    } 
+}
+

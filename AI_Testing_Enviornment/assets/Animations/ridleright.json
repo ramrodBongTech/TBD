@@ -1,0 +1,21 @@
+{"frames": [
+
+{
+	"filename": "redrun_0015.png",
+	"frame": {"x":0,"y":0,"w":202,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":212},
+	"sourceSize": {"w":202,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ridleright.png",
+	"format": "RGBA8888",
+	"size": {"w":202,"h":212},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:21306af97af447c10ebef9540dc62233:e62c54fb02b24e98a4b70c90dd7ba301:ee3728015c756099f1cbb2556098a775$"
+}
+}

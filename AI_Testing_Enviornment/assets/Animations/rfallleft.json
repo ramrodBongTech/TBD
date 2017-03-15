@@ -1,0 +1,201 @@
+{"frames": [
+
+{
+	"filename": "redfall_0000leftpng.png",
+	"frame": {"x":0,"y":0,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0001leftpng.png",
+	"frame": {"x":203,"y":0,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0002leftpng.png",
+	"frame": {"x":406,"y":0,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0003leftpng.png",
+	"frame": {"x":609,"y":0,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0004leftpng.png",
+	"frame": {"x":812,"y":0,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0005leftpng.png",
+	"frame": {"x":0,"y":212,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0006leftpng.png",
+	"frame": {"x":203,"y":212,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0007leftpng.png",
+	"frame": {"x":406,"y":212,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0008leftpng.png",
+	"frame": {"x":609,"y":212,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0009leftpng.png",
+	"frame": {"x":812,"y":212,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0010leftpng.png",
+	"frame": {"x":0,"y":424,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0011leftpng.png",
+	"frame": {"x":203,"y":424,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0012leftpng.png",
+	"frame": {"x":406,"y":424,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0013leftpng.png",
+	"frame": {"x":609,"y":424,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0014leftpng.png",
+	"frame": {"x":812,"y":424,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0015leftpng.png",
+	"frame": {"x":0,"y":636,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0016leftpng.png",
+	"frame": {"x":203,"y":636,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0017leftpng.png",
+	"frame": {"x":406,"y":636,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0018leftpng.png",
+	"frame": {"x":609,"y":636,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0019leftpng.png",
+	"frame": {"x":812,"y":636,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redfall_0020leftpng.png",
+	"frame": {"x":0,"y":848,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "rfallleft.png",
+	"format": "RGBA8888",
+	"size": {"w":1015,"h":1060},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6b6c4bec0c75364890ac586a22455c93:1bd120761d58003c7411263139a3bf1f:1d9680c62c1d6e96c89a22cf44bc7aa7$"
+}
+}

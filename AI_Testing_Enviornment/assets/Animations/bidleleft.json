@@ -1,0 +1,21 @@
+{"frames": [
+
+{
+	"filename": "bluerun_0015leftpng.png",
+	"frame": {"x":0,"y":0,"w":202,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":212},
+	"sourceSize": {"w":202,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bidleleft.png",
+	"format": "RGBA8888",
+	"size": {"w":202,"h":212},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2fa4156bcdf2617d79c5385f7a19ade0:51dfdea5259e32cfa89cfcdd9ff7e73f:4a36ea74dbbe5074ef92ec01cec3f5c1$"
+}
+}

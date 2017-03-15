@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Animation">
+    <Position X="13.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIEAIAAMAAAgEIEEEAaAABAAAQCAABgAAEFBAE=</HashCode>
+      <FileName>Animation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoLister&lt;T&gt;">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAABAAAAAAAEAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AutoList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Colour">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAQABABAAAAA=</HashCode>
+      <FileName>BasicTypes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rect">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAIAAAAAAAAAAAIAAAIAAACAAAAAAAAAgEAAAAAA=</HashCode>
+      <FileName>BasicTypes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileMonitor">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAEEJAQBAAAAAAAAAAAAAAAAAAAQAAAIAAAAAAAA=</HashCode>
+      <FileName>FileMonitor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAiYAAAAAAAAAAAAgAAAIgAAABIQAAAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LTimer">
+    <Position X="13.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAggAAAAAEAAAAAgAhAAAAQAgQAAoAA=</HashCode>
+      <FileName>LTimer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Renderer">
+    <Position X="11.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AVAgAACQAAAAAIACAIQQAEAAAAAAAEYIAACgIAAAEAA=</HashCode>
+      <FileName>Renderer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResourceManager">
+    <Position X="15" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBAgAACQAFAAgAACIAAMECAEAAAEAaJAQAoAQEMYAg=</HashCode>
+      <FileName>ResourceManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector2D">
+    <Position X="16.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIwEAAAAgAEgQEUAAGAQAAAAMKAABkQAhgAEEAAQA=</HashCode>
+      <FileName>Vector2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISystem">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ECSInterfaces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IEntity">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAABACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ECSInterfaces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputSystem">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InputSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RenderSystem">
+    <Position X="6" Y="4" Width="1.5" />
+    <InheritanceLine Type="ISystem" FixedFromPoint="true">
+      <Path>
+        <Point X="8.062" Y="4" />
+        <Point X="8.062" Y="3.625" />
+        <Point X="5.625" Y="3.625" />
+        <Point X="5.625" Y="6.252" />
+        <Point X="6.75" Y="6.252" />
+        <Point X="6.75" Y="5.877" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAIAAAAAAQAAAAA=</HashCode>
+      <FileName>RenderSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="LoadException">
+    <Position X="11.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Resource.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Resource">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAIIAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Resource.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Texture">
+    <Position X="3" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Resource.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Music">
+    <Position X="4.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAIAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Resource.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SoundEffect">
+    <Position X="6.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgIAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Resource.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="IComponent">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>ECSInterfaces.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="IControllerComponent" Collapsed="true">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="PlayerControllerComponent">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAACAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Box2DComponent">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEQAAAgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dimensional.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CollisionBoxComponent">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dimensional.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

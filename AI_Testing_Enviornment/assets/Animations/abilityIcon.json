@@ -1,0 +1,39 @@
+{"frames": [
+
+{
+	"filename": "hookIcon.png",
+	"frame": {"x":0,"y":0,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "shotIcon.png",
+	"frame": {"x":100,"y":0,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "webIcon.png",
+	"frame": {"x":200,"y":0,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "abilityIcon.png",
+	"format": "RGBA8888",
+	"size": {"w":300,"h":100},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ce840f5df975b0a155913d1b1f8de191:69998498f83d7719953a50514c5a825d:d94c5f6a09bd57f8e4804b1cdc15178c$"
+}
+}

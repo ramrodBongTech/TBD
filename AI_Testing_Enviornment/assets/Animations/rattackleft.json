@@ -1,0 +1,111 @@
+{"frames": [
+
+{
+	"filename": "redattack_0000leftpng.png",
+	"frame": {"x":0,"y":0,"w":202,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":212},
+	"sourceSize": {"w":202,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redattack_0001leftpng.png",
+	"frame": {"x":202,"y":0,"w":202,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":212},
+	"sourceSize": {"w":202,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redattack_0002leftpng.png",
+	"frame": {"x":0,"y":212,"w":202,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":212},
+	"sourceSize": {"w":202,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redattack_0003leftpng.png",
+	"frame": {"x":202,"y":212,"w":202,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":212},
+	"sourceSize": {"w":202,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redattack_0004leftpng.png",
+	"frame": {"x":0,"y":424,"w":202,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":212},
+	"sourceSize": {"w":202,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redattack_0005leftpng.png",
+	"frame": {"x":202,"y":424,"w":202,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":212},
+	"sourceSize": {"w":202,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redattack_0006leftpng.png",
+	"frame": {"x":0,"y":636,"w":202,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":212},
+	"sourceSize": {"w":202,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redattack_0007leftpng.png",
+	"frame": {"x":202,"y":636,"w":202,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":212},
+	"sourceSize": {"w":202,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redattack_0008leftpng.png",
+	"frame": {"x":0,"y":848,"w":202,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":212},
+	"sourceSize": {"w":202,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redattack_0009leftpng.png",
+	"frame": {"x":202,"y":848,"w":202,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":212},
+	"sourceSize": {"w":202,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redattack_0010leftpng.png",
+	"frame": {"x":0,"y":1060,"w":202,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":212},
+	"sourceSize": {"w":202,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "rattackleft.png",
+	"format": "RGBA8888",
+	"size": {"w":404,"h":1272},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fcdb76259b1d4084d58107f4e1e0a31d:5ed044f65fccdbee1cdb584f43732d89:979be501186d29e18613dde64571a72c$"
+}
+}

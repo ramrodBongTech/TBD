@@ -1,0 +1,21 @@
+{"frames": [
+
+{
+	"filename": "greenrun_0015leftpng.png",
+	"frame": {"x":0,"y":0,"w":202,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":212},
+	"sourceSize": {"w":202,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gidleleft.png",
+	"format": "RGBA8888",
+	"size": {"w":202,"h":212},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c39b3a203bed27dfb8746e242b29bb3d:c18ae53b7d5a9b85772e9b058d2062a1:7a8563cba432d8661d507481a35631be$"
+}
+}

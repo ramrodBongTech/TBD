@@ -1,0 +1,21 @@
+{"frames": [
+
+{
+	"filename": "redrun_0015leftpng.png",
+	"frame": {"x":0,"y":0,"w":202,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":212},
+	"sourceSize": {"w":202,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ridleleft.png",
+	"format": "RGBA8888",
+	"size": {"w":202,"h":212},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:334f4d2757bd6ab7ff2ba62b11dde18a:1ddcbf1b5e085177b30cc82be0c283ab:11682258a88b04c9c305a3a8340dfdc2$"
+}
+}

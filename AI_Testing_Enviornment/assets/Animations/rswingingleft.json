@@ -1,0 +1,111 @@
+{"frames": [
+
+{
+	"filename": "redswing_0000leftpng.png",
+	"frame": {"x":0,"y":0,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redswing_0001leftpng.png",
+	"frame": {"x":0,"y":158,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redswing_0002leftpng.png",
+	"frame": {"x":0,"y":316,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redswing_0003leftpng.png",
+	"frame": {"x":0,"y":474,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redswing_0004leftpng.png",
+	"frame": {"x":0,"y":632,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redswing_0005leftpng.png",
+	"frame": {"x":0,"y":790,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redswing_0006leftpng.png",
+	"frame": {"x":0,"y":948,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redswing_0007leftpng.png",
+	"frame": {"x":0,"y":1106,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redswing_0008leftpng.png",
+	"frame": {"x":0,"y":1264,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redswing_0009leftpng.png",
+	"frame": {"x":0,"y":1422,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "redswing_0010leftpng.png",
+	"frame": {"x":0,"y":1580,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "rswingingleft.png",
+	"format": "RGBA8888",
+	"size": {"w":97,"h":1738},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5d389b931b0c082543cceef40ceccd41:4599c83bf78876f8765fb44040ee15d9:e91e18bb81e354086943c1c5c294e196$"
+}
+}

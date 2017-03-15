@@ -1,0 +1,111 @@
+{"frames": [
+
+{
+	"filename": "yellowswing_0000.png",
+	"frame": {"x":0,"y":0,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowswing_0001.png",
+	"frame": {"x":0,"y":158,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowswing_0002.png",
+	"frame": {"x":0,"y":316,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowswing_0003.png",
+	"frame": {"x":0,"y":474,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowswing_0004.png",
+	"frame": {"x":0,"y":632,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowswing_0005.png",
+	"frame": {"x":0,"y":790,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowswing_0006.png",
+	"frame": {"x":0,"y":948,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowswing_0007.png",
+	"frame": {"x":0,"y":1106,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowswing_0008.png",
+	"frame": {"x":0,"y":1264,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowswing_0009.png",
+	"frame": {"x":0,"y":1422,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "yellowswing_0010.png",
+	"frame": {"x":0,"y":1580,"w":97,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":158},
+	"sourceSize": {"w":97,"h":158},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "yswingingright.png",
+	"format": "RGBA8888",
+	"size": {"w":97,"h":1738},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:33e6274d477de6896943d150bcb2b9b5:c4e7ca793bae4d5955e6fcd5a37d0cf1:e1dafc643aba0885af29a13e7b1ee430$"
+}
+}

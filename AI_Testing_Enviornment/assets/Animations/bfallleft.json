@@ -1,0 +1,201 @@
+{"frames": [
+
+{
+	"filename": "bluefall_0000leftpng.png",
+	"frame": {"x":0,"y":0,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0001leftpng.png",
+	"frame": {"x":203,"y":0,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0002leftpng.png",
+	"frame": {"x":406,"y":0,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0003leftpng.png",
+	"frame": {"x":609,"y":0,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0004leftpng.png",
+	"frame": {"x":812,"y":0,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0005leftpng.png",
+	"frame": {"x":0,"y":212,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0006leftpng.png",
+	"frame": {"x":203,"y":212,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0007leftpng.png",
+	"frame": {"x":406,"y":212,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0008leftpng.png",
+	"frame": {"x":609,"y":212,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0009leftpng.png",
+	"frame": {"x":812,"y":212,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0010leftpng.png",
+	"frame": {"x":0,"y":424,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0011leftpng.png",
+	"frame": {"x":203,"y":424,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0012leftpng.png",
+	"frame": {"x":406,"y":424,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0013leftpng.png",
+	"frame": {"x":609,"y":424,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0014leftpng.png",
+	"frame": {"x":812,"y":424,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0015leftpng.png",
+	"frame": {"x":0,"y":636,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0016leftpng.png",
+	"frame": {"x":203,"y":636,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0017leftpng.png",
+	"frame": {"x":406,"y":636,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0018leftpng.png",
+	"frame": {"x":609,"y":636,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0019leftpng.png",
+	"frame": {"x":812,"y":636,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bluefall_0020leftpng.png",
+	"frame": {"x":0,"y":848,"w":203,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":212},
+	"sourceSize": {"w":203,"h":212},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bfallleft.png",
+	"format": "RGBA8888",
+	"size": {"w":1015,"h":1060},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8f2b91021cb453f2727061615cfbc040:b3bcdada625a2d4b88e78184e3dac06e:57d20da33fbb765b54308f3eda985ecf$"
+}
+}
